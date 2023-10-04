@@ -1,4 +1,4 @@
-# Dicoding Bike Sharing Dashboard
+# Dicoding Bike Sharing Dashboard ✨
 
 ## Setup environment
 ```
